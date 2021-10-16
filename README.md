@@ -6,3 +6,5 @@ Such BIGTeXT in ASCII can be made with this small tool!
 > There will be nor or either be surport for Windows
 
 For Help and Examples: See the <a href="https://github.com/Abdulhadi5692HDI/BIGTEXT/wiki">WIKi</a>
+
+!! NEED PYTHON !!
