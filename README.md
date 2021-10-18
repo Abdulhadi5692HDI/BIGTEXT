@@ -8,3 +8,7 @@ Such BIGTeXT in ASCII can be made with this small tool!
 For Help and Examples: See the <a href="https://github.com/Abdulhadi5692HDI/BIGTEXT/wiki">WIKi</a>
 
 !! NEED PYTHON !!
+
+> APT Install (unstable)
+```apt install ./bigtext_1_all.deb```
+Note: Colors will not work and python will display errors
