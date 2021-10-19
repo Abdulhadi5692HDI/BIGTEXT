@@ -19,3 +19,4 @@ without ./ or /
 
 >Also can do:
 ```~/../usr/bin/app.sh```
+>Because of update little bit of errors are going to DISPLAY
