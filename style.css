@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Stick No Bills', sans-serif;
+}
+body {
+    min-height: 100vh;
+    color: #B1FF80;
+}
+nav {
+
+width: 100vw;
+background-color: #62C1A8;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav li {
+
+  list-style-type: none;
+  margin: 0 2vw;
+  font-size: 2vh;
+}
+a{
+  text-decoration: none;
+  
+  color: #DEFF00;
+  
+  padding: 3vw;
+  
+  
+}
+
+a:hover {
+    background-color: #fFF;
+}
+@media only screen and (max-width: 500px) {
+  
+  ul{
+    flex-direction: column;
+  }
+  
+  
+  li{
+    margin: 0;
+  }
+
+  a{
+    display: block;
+  }
+}
+button {
+    display: none;
+}
+@media only screen and (max-width: 500px) {
+  
+   button {
+       display: block;
+       padding: 2vw;
+       font-size: 3vh;
+       border: none;
+       align-self: flex-start;
+   } 
+}
+p {
+    color: #FFB000;
+}
+.Welcome {
+background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+font-size: 41.2px;
+}
+.content {
+ background-color: #20bf55;
+background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+
+}
+.message {
+    background-color: #E8E951;
+}
+.msg {
+    color: #C9FFE4;
+    a:hover {
+        background-color: #00CBFF;
+    }
+}
