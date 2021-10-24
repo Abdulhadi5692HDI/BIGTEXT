@@ -14,7 +14,7 @@ Also for a another cleaner version go into github-pages
 !! NEED PYTHON !!
 
 > APT Install (unstable)
-```apt install ./bigtext_1_all.deb```
+```apt install ./bigtext_2_all.deb```
 Note: Colors will not work and python will display errors
 
 >Then:
