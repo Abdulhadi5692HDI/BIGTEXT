@@ -8,6 +8,9 @@ Such BIGTeXT in ASCII can be made with this small tool!
 For Help and Examples: See the <a href="https://github.com/Abdulhadi5692HDI/BIGTEXT/wiki">WIKi</a>
 
 BigText 0.2 Post: https://abdulhadishahzad.xp3.biz/form/_site/bigtext/update/2021/10/24/bigtext-0-2.html
+
+Also for a another cleaner version go into github-pages
+
 !! NEED PYTHON !!
 
 > APT Install (unstable)
