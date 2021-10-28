@@ -1,3 +1,4 @@
+
 		
 cyan="python  /data/data/com.termux/files/usr/share/cyan.py"
 $cyan
