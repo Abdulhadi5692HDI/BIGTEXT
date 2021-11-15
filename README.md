@@ -32,5 +32,5 @@ Note: Colors will not work and python will display errors
 without ./ or /
 
 >Also can do:
-```bigtext```
+```~/../usr/bigtext```
 >Because of update little bit of errors are going to DISPLAY
