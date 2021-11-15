@@ -28,9 +28,9 @@ Also for a another cleaner version go into github-pages
 Note: Colors will not work and python will display errors
 
 >Then:
-```app.sh```
+```bigtext```
 without ./ or /
 
 >Also can do:
-```~/../usr/bin/app.sh```
+```bigtext```
 >Because of update little bit of errors are going to DISPLAY
