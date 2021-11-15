@@ -1,4 +1,14 @@
 # BIGTEXT
+
+
+> Announcement 15/11/21
+
+This project will be not work on because im very busy
+
+
+------------- End of Announce ---------
+
+
 Such BIGTeXT in ASCII can be made with this small tool!
 
 > OS Surported: Android (via termux (APT must be enabled))
