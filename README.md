@@ -1,5 +1,7 @@
 # BIGTEXT
 
+[![Bigtext](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/python-publish.yml)
+
 
 > Announcement 15/11/21
 
