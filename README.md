@@ -17,7 +17,7 @@ Such BIGTeXT in ASCII can be made with this small tool!
 
 For Help and Examples: See the <a href="https://github.com/Abdulhadi5692HDI/BIGTEXT/wiki">WIKi</a>
 
-BigText 0.2 Post: https://badgen.net/badge/Status/Closed/red?icon=github
+BigText 0.2 Post: 
 
 Also for a another cleaner version go into github-pages
 
