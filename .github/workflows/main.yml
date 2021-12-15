@@ -33,6 +33,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Starting to build...
-          tar -c -f * bigtext.tar
+          tar cvf bigtext.tar */
           echo "Done.."
        
