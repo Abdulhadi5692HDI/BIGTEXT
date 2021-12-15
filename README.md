@@ -1,8 +1,6 @@
-# BIGTEXT
-
-[![Bigtext](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/python-publish.yml)
-
-
+#Bigtext
+## Info
+[![BigText Build](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/main.yml/badge.svg)](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/main.yml)
 > Announcement 15/11/21
 
 This project will be not work on because im very busy
