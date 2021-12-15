@@ -34,10 +34,4 @@ jobs:
         run: |
           git config --global user.email "github-actions@users.noreply.github.com" 
           git config --global user.name "github-actions"
-      
-      - name: Upload to Git
-      uses: actions/upload-artifact@v2 
-      with: 
-      name: bigtext
-      path: bigtext.tar
-          
+          git commit "CI: Archived BigText into TAR"  
