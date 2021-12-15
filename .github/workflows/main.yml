@@ -36,4 +36,10 @@ jobs:
           git config --global user.name "github-actions"
           git add .
           git commit -am "CI: Archived BigText into TAR"
-          git push  
+          git push
+      
+    - name: Upload to Git
+      uses: actions/upload-artifact@v2 
+      with: 
+      name: bigtext
+      path: bigtext.tar
