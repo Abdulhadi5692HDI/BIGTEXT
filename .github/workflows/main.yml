@@ -28,12 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Archive Latest BigText
         run: tar cvf bigtext.tar *
-      # Upload to Git
-    - name: Upload to Git
-      uses: actions/upload-artifact@v2 
-      with: 
-      name: bigtext
-      path: bigtext.tar
+      
       
       # Runs a set of commands using the runners shell
       - name: Commit
