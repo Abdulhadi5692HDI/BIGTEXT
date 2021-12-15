@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-      steps:
+     steps:
       - uses: actions/checkout@v2
       
       # Runs a single command using the runners shell
@@ -31,7 +31,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Starting to build...
-          tar cvf bigtext.tar */
+          tar cvf bigtext.tar *
           echo "Done.."
      
       - name: Upload
