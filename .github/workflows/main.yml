@@ -28,6 +28,16 @@ jobs:
       # Runs a single command using the runners shell
       - name: Archive Latest BigText
         run: tar cvf bigtext.tar *
+    
+     - name: Compile Module
+       run: |
+         cd android/modules/BigTextJavaMain
+         mvn compile
+         cp target/ModOfSomething.jar ../../../../
+         rm ModOfSomething.jar
+         cd  ../../../
+         
+
       
       
       # Runs a set of commands using the runners shell
@@ -37,4 +47,6 @@ jobs:
           git config --global user.name "bigtext-ci"
           git add .
           git commit -am "CI: Archived BigText into TAR"
+          git add ModOfSomething.jar
+          git commit -am "CI: Compiled Module"
           git push
