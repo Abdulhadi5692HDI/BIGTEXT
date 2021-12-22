@@ -36,7 +36,9 @@ jobs:
           git config --global user.email "bigtext-ci@gmail.com" 
           git config --global user.name "bigtext-ci"
           git add .
-          git commit -am "CI: Archived BigText into TAR"
-          git add ModOfSomething.jar
-          git commit -am "CI: Compiled Module"
+          git commit -am "CI: Archived BigText into TAR (might have ZIP files soon)"
           git push
+- uses: actions/upload-artifact@v2
+  with:
+    name: bt-artifact
+    path: ./bigtext.tar
