@@ -36,10 +36,7 @@ jobs:
          cp target/ModOfSomething.jar ../../../../
          rm ModOfSomething.jar
          cd  ../../../
-         
 
-      
-      
       # Runs a set of commands using the runners shell
       - name: Commit
         run: |
