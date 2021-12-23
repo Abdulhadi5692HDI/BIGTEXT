@@ -2,7 +2,8 @@
 
 cyan="python cyan.py"
 $cyan
-echo "
+bigtextlogo="
+echo '
  ________  ___  ________ _________  _______      ___    ___ _________   
 |\   __  \|\  \|\   ____\\___   ___\\  ___ \    |\  \  /  /|\___   ___\ 
 \ \  \|\ /\ \  \ \  \___\|___ \  \_\ \   __/|   \ \  \/  / ||___ \  \_| 
@@ -12,7 +13,9 @@ echo "
     \|_______|\|__|\|_______|   \|__|  \|_______/__/ /\ __\        \|__|
                                                 |__|/ \|__|             
    
+' '|' lolcat
 "
+$bigtextlogo
 python cyan.py | echo "(MOD) [Example] No Updates right now"
 echo -e
 sleep 3
@@ -23,6 +26,8 @@ echo "Installing Packages"
 pip install colorama
 apt install figlet
 gem install lolcat
+clear
+$bigtextlogo
 $cyan
 echo "I| Now type text and press enter to get big ascii version"
 python red.py
