@@ -34,3 +34,5 @@ without ./ or /
 >Also can do:
 ```~/../usr/bigtext```
 >Because of update little bit of errors are going to DISPLAY
+
+You can also download the latest dev build: <a href=""></a>
