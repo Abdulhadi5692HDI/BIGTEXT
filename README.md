@@ -1,4 +1,4 @@
-#Bigtext
+# Bigtext
 ## Info
 [![BigText Build](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/main.yml/badge.svg)](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/main.yml)
 > Announcement 15/11/21
