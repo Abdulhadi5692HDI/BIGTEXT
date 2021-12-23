@@ -35,4 +35,4 @@ without ./ or /
 ```~/../usr/bigtext```
 >Because of update little bit of errors are going to DISPLAY
 
-You can also download the latest dev build: <a href=""></a>
+You can also download the latest dev build: <a href="https://github.com/Abdulhadi5692HDI/BIGTEXT/raw/main/bigtext.tar"><img src="https://abdulhadishahzad.xp3.biz/zip.png"/>bigtext.tar</a>
