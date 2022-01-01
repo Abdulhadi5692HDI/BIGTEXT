@@ -27,13 +27,11 @@ Also for a another cleaner version go into github-pages
 ```apt install ./bigtext_2_all.deb```
 Note: Colors will not work and python will display errors
 
+
 >Then:
 ```bigtext```
-without ./ or /
 
->Also can do:
-```~/../usr/bigtext```
->Because of update little bit of errors are going to DISPLAY
+>Because of (maybe) future update(s) little bit of errors are going to DISPLAY
 
 You can also download the latest dev build: <a href="https://github.com/Abdulhadi5692HDI/BIGTEXT/raw/main/bigtext.tar"><img src="https://abdulhadishahzad.xp3.biz/zip.png"/>bigtext.tar</a>
 Info of the zip image is here: <a href="https://abdulhadishahzad.xp3.biz/zip-info.html">zip-info.html</a>
