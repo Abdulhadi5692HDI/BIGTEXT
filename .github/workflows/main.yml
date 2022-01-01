@@ -35,5 +35,6 @@ jobs:
           git config --global user.email "bigtext-ci@gmail.com" 
           git config --global user.name "bigtext-ci"
           git add .
+          mv *.tar bin/
           git commit -am "CI: Archived BigText into TAR (might have ZIP files soon)"
           git push   
