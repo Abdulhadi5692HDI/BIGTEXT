@@ -35,7 +35,6 @@ jobs:
               name: bigtext
               path: ./bigtext.tar
               if-no-files-found: warn
-    # Duration after which artifact will expire in days. 0 means using default retention.
-Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
+    # Duration after which artifact will expire in days. 0 means using default retention. Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
 
     retention-days: 0
