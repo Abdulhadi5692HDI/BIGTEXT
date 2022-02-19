@@ -1,13 +1,11 @@
 # Bigtext
 ## Info
 [![BigText Build](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/main.yml/badge.svg)](https://github.com/Abdulhadi5692HDI/BIGTEXT/actions/workflows/main.yml)
-> Announcement 15/11/21
-
-This project will be not work on because im very busy
-
-
-------------- End of Announce ---------
-
+Requirements:
+figlet
+python2 or 3
+bash
+<>1
 
 Such BIGTeXT in ASCII can be made with this small tool!
 
