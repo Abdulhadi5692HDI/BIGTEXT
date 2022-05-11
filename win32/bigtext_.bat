@@ -1,6 +1,6 @@
 @echo off
 echo Bigtext ported to windows!
-:hadi
+:bigtext
 set /p input=text~  
 c:\figlet.exe %input%
-goto :hadi
+goto :bigtext
